@@ -1,0 +1,6 @@
+# Social Activation Project
+
+Natural disasters are intensifying due to climate change, but global response systems remain slow. To demonstrate how decentralised technologies, specifically zero-knowledge proofs (ZKP) and on-chain analytics, can establish trust, transparency, and cooperation in the high-stakes domain of natural disaster response, this project aims to build a operational prototype where users submit real-time mobile imagery which is processed via Machine Learning (ML) models, verified using ZKP, and published to the blockchain where all analytics become public and transparent. Finally a thresholding and data merging mechanism specific to a few initially chosen stakeholder emergency protocols will be developed. These emergency protocols can then be directly activated removing the need for other intermediary (often entirely bureaucratic) organisations to be involved. By integrating stakeholders at both the data providing end and emergency protocol activation ends of the pipeline, this project can start to decentralise emergency protocol activation and therefore increase the speed of this activation, getting resources and information to the ones who need it faster.
+
+This project is supported by the [Ethereum Foundation](https://ethereum.foundation/).
+
